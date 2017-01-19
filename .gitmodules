@@ -1,3 +1,0 @@
-[submodule "emacs-private"]
-	path = emacs-private
-	url = git@gitlab.com:xkwu1990/emacs-private.git
